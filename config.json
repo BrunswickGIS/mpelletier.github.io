@@ -47,8 +47,7 @@
         },
         "version": "2.18",
         "id": "themes_LaunchpadTheme_widgets_Header_Widget_21",
-        "name": "Header",
-        "config": null
+        "name": "Header"
       },
       {
         "uri": "widgets/Search/Widget",
