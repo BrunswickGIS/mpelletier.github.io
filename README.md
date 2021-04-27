@@ -1,2 +1,2 @@
-# mpelletier.github.io
- Public Map Viewer
+# Public-Map-Viewer
+ Brunswick GIS Public Map Viewer
