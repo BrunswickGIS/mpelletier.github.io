@@ -175,11 +175,9 @@
         },
         "placeholderIndex": 1,
         "id": "_32",
-        "name": "Share",
         "version": "2.18",
         "closeable": true,
-        "uri": "widgets/Share/Widget",
-        "config": "configs/Share/config__32.json"
+        "uri": ""
       },
       {
         "position": {
