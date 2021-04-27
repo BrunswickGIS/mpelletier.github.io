@@ -177,7 +177,9 @@
         "id": "_32",
         "version": "2.18",
         "closeable": true,
-        "uri": ""
+        "uri": "widgets/Share/Widget",
+        "name": "Share",
+        "config": "configs/Share/config__32.json"
       },
       {
         "position": {
