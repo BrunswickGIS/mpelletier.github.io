@@ -294,20 +294,20 @@
         "id": "widgets_Measurement_Widget_37"
       },
       {
-        "name": "Draw",
-        "version": "2.18",
-        "uri": "widgets/Draw/Widget",
-        "config": "configs/Draw/config_widgets_Draw_Widget_38.json",
-        "index": 6,
-        "id": "widgets_Draw_Widget_38"
-      },
-      {
         "name": "BasemapGallery",
         "version": "2.18",
         "uri": "widgets/BasemapGallery/Widget",
         "config": "configs/BasemapGallery/config_widgets_BasemapGallery_Widget_39.json",
-        "index": 7,
+        "index": 6,
         "id": "widgets_BasemapGallery_Widget_39"
+      },
+      {
+        "name": "Draw",
+        "version": "2.18",
+        "uri": "widgets/Draw/Widget",
+        "config": "configs/Draw/config_widgets_Draw_Widget_43.json",
+        "index": 8,
+        "id": "widgets_Draw_Widget_43"
       }
     ],
     "groups": []
